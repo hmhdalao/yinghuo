@@ -37,7 +37,8 @@
     "pagePath":  "pages/myinfo/myinfo",
     "text": "我的",
     "iconPath": "static/image/myinfo1.png",
-    "selectedIconPath": "static/image/myinfo2.png"  
+    "selectedIconPath": "static/image/myinfo2.png"
+   
   }
 
 
