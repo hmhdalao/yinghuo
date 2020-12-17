@@ -1,2 +1,12 @@
 <!--pages/homepage/homepage.wxml-->
-<text>pages/homepage/homepage.wxml</text>
+<!-- 搜索栏 -->
+<view class="search">
+  <i-icon type="search" size="20" color="#80848f" />
+  搜索商品
+</view>
+<!-- 轮播图 -->
+
+
+
+
+
